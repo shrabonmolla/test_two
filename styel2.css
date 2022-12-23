@@ -1,0 +1,31 @@
+/* startin pragraph section */
+.p_container{
+    /* border: 1px solid black; */
+    width: 95%;
+    max-width: 980px;
+    margin: 0 auto;
+    font-family: 'Roboto Slab', serif;
+}
+.coloum{
+    padding: 2em;
+}
+.b_container{
+    /* border: 1px solid black; */
+    width: 95%;
+    max-width: 980px;
+    margin: 0 auto;
+    font-family: 'Roboto Slab', serif;
+    
+}
+h2{
+    padding: 3em;  
+    text-align: center;
+    color: rgb(255, 255, 255);
+   
+}
+.heading{
+    margin-bottom: 1em;
+}
+body{
+    background-color: rgb(233, 230, 225);
+}  
